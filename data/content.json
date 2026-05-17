@@ -1,47 +1,111 @@
 {
-  "businessName": "Sample Business",
-  "tagline": "Quality Service You Can Trust",
+  "businessName": "U Nails & Spa",
+  "tagline": "A quiet hour for yourself",
   "hero": {
-    "heading": "Welcome to Our Business",
-    "subheading": "Professional service in your area.",
-    "ctaText": "Contact Us",
-    "ctaLink": "#contact"
+    "heading": "Quiet hands. Calm hours.",
+    "subheading": "A neighborhood nail studio in Laguna Hills. Gel manicures, dipping powder, and full pedicures in a clean, unhurried room.",
+    "ctaText": "Book your visit",
+    "ctaLink": "tel:9498373367",
+    "image": "https://images.unsplash.com/photo-1604654894610-df63bc536371?w=1800&q=80&auto=format&fit=crop"
   },
   "about": {
-    "heading": "About Us",
+    "heading": "A studio, not a salon.",
     "paragraphs": [
-      "We are a local business dedicated to providing quality service.",
-      "Our team has years of experience and we take pride in our work."
+      "U Nails opened in 2017 with a simple idea: nail care should feel like an hour off, not a transaction. Soft music. Real conversation. No TV.",
+      "Our technicians have an average of eleven years of experience. Every implement is sealed-pack autoclaved between guests. Our gel and acrylic lines are HEMA-free and 9-free.",
+      "Same-day appointments most days — call ahead or walk in. Closed Sundays so our team can rest."
     ]
   },
   "services": [
-    { "title": "Service One", "description": "Professional service with attention to detail.", "icon": "star" },
-    { "title": "Service Two", "description": "Quality work at competitive prices.", "icon": "award" },
-    { "title": "Service Three", "description": "Fast, reliable, and thorough.", "icon": "check" }
+    {
+      "title": "Signature Manicure",
+      "description": "A 45-minute soak, shape, cuticle care, and finish in your choice of regular polish or strengthening base. Includes hand massage.",
+      "price": "$35"
+    },
+    {
+      "title": "Gel Manicure",
+      "description": "Long-wear gel with chip-free finish lasting up to three weeks. Brands include OPI, CND Shellac, and Apres.",
+      "price": "$50"
+    },
+    {
+      "title": "Dipping Powder",
+      "description": "Lightweight, no-UV alternative to gel. Stronger than polish, gentler than acrylic. 30-color palette to choose from.",
+      "price": "$60"
+    },
+    {
+      "title": "Spa Pedicure",
+      "description": "60 minutes. Warm soak with eucalyptus, full callus care, exfoliating scrub, hot stone massage, and finish.",
+      "price": "$55"
+    },
+    {
+      "title": "Acrylic Full Set",
+      "description": "Hand-sculpted acrylic extensions in your choice of length and shape. French, ombré, gel polish or matte top coat.",
+      "price": "From $80"
+    },
+    {
+      "title": "Nail Art",
+      "description": "From subtle French tips to detailed hand-painted designs and chrome work. Pricing varies by design — call for a quote.",
+      "price": "From $10"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Jennifer P.",
+      "rating": 5,
+      "text": "Best nail experience in Laguna Hills. They actually listen, don't rush you, and the gel mani lasted 22 days without lifting."
+    },
+    {
+      "name": "Adrienne L.",
+      "rating": 5,
+      "text": "My pedicure tech took her time with my callus issue — first salon to actually fix it. I drive 25 minutes to come here now."
+    },
+    {
+      "name": "Brooke W.",
+      "rating": 4,
+      "text": "Spotlessly clean, calm environment, no aggressive small talk. The dipping powder is gorgeous and lasts three weeks easily."
+    }
   ],
   "contact": {
-    "address": "123 Main St, City, ST 12345",
-    "phone": "(555) 123-4567",
-    "email": "info@sample.com",
+    "phone": "(949) 837-3367",
+    "email": "hello@unailsspa.com",
+    "address": "23028 Lake Forest Dr suite b, Laguna Hills, CA 92653",
+    "mapEmbedQuery": "U Nails & Spa 23028 Lake Forest Dr Laguna Hills CA 92653",
     "hours": {
-      "Monday": "9:00 AM - 5:00 PM",
-      "Tuesday": "9:00 AM - 5:00 PM",
-      "Wednesday": "9:00 AM - 5:00 PM",
-      "Thursday": "9:00 AM - 5:00 PM",
-      "Friday": "9:00 AM - 5:00 PM",
-      "Saturday": "10:00 AM - 3:00 PM",
+      "Monday": "9 AM – 7 PM",
+      "Tuesday": "9 AM – 7 PM",
+      "Wednesday": "9 AM – 7 PM",
+      "Thursday": "9 AM – 7 PM",
+      "Friday": "9 AM – 7 PM",
+      "Saturday": "9 AM – 6 PM",
       "Sunday": "Closed"
-    },
-    "mapEmbedQuery": "123+Main+St+City+ST"
+    }
   },
-  "seo": {
-    "title": "Sample Business | City, ST",
-    "description": "Sample Business in City, ST. Professional services you can trust.",
-    "keywords": ["sample business", "city ST", "professional services"]
+  "gallery": [
+    "https://images.unsplash.com/photo-1632345031435-8727f6897d53?w=1200&q=80&auto=format&fit=crop",
+    "https://images.unsplash.com/photo-1607779097040-26e80aa78e66?w=1200&q=80&auto=format&fit=crop",
+    "https://images.unsplash.com/photo-1610992015732-2449b76344bc?w=1200&q=80&auto=format&fit=crop"
+  ],
+  "social": {
+    "yelp": "https://www.yelp.com/biz/u-nails-and-spa-laguna-hills",
+    "facebook": "https://www.facebook.com/unailsandspa2017/",
+    "instagram": "https://www.instagram.com/unailsspa17/"
   },
   "theme": {
-    "primaryColor": "#0a0a0a",
-    "accentColor": "#c8a97e",
-    "fontFamily": "modern"
+    "primaryColor": "#D4A5A5",
+    "accentColor": "#8B9B7A",
+    "fontFamily": "Italiana + Inter"
+  },
+  "seo": {
+    "title": "U Nails & Spa — Laguna Hills nail salon",
+    "description": "Calm, clean nail studio in Laguna Hills. Gel, dip, acrylics, pedicures. Open 6 days a week — closed Sundays.",
+    "keywords": [
+      "nail salon Laguna Hills",
+      "gel manicure Laguna Hills",
+      "U Nails",
+      "Lake Forest Dr nail salon",
+      "pedicure Laguna Hills",
+      "acrylic nails Orange County",
+      "dipping powder OC"
+    ]
   }
 }
